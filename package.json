@@ -1,0 +1,14 @@
+{
+  "name": "js-csv-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js"
+  },
+  "author": "Kyrylo",
+  "license": "ISC",
+  "dependencies": {
+    "split": "^1.0.1"
+  }
+}
